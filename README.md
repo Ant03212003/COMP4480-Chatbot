@@ -61,9 +61,11 @@ Paso 3. Configurar variables de entorno
 
 Ejecucion del proyecto:
 Iniciar el servidor
+
 	node index.js
 
 Abrir en el browser
+
 	http://localhost:3000
 
 
