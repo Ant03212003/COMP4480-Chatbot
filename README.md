@@ -56,8 +56,8 @@ Paso 2. Instalar dependencias
 	npm install express openai dotenv sqlite3 cors
 
 Paso 3. Configurar variables de entorno
-
 	Crear un archivo .env en la raiz del proyecto con el siguiente contenido:
+	
 	OPEN_API_KEY=YOUR API KEY HERE
 
 
