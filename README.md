@@ -27,6 +27,8 @@ Tecnologías utilizadas:
 Estructura del proyecto:
 
 COMP4480 - Chatbot
+
+
 |
 ├── index.js
 ├── package.json
@@ -39,7 +41,7 @@ COMP4480 - Chatbot
      ├── index.html
      ├── script.js
      ├── style.css
-
+	 
 
 Instalacion y configuracion:
 
