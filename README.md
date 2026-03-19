@@ -114,5 +114,4 @@ Curso: COMP4480.ARTIFICIAL INTELLIGENCE
 
 
 Licencia:
-
 Este proyecto es de uso academico y educativo
