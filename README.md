@@ -52,7 +52,7 @@ Paso 2. Instalar dependencias
 
 Paso 3. Configurar variables de entorno
 	Crear un archivo .env en la raiz del proyecto con el siguiente contenido:
-	OPEN_API_KEY=<YOUR API KEY HERE>
+	OPEN_API_KEY=YOUR API KEY HERE
 
 
 Ejecucion del proyecto:
